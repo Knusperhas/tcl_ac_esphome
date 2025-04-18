@@ -13,6 +13,7 @@
 - SunWind SW-18
 - Kesser Split 12000/BTU
 - Veska VSK-12000BTU (likely TCL TAC-12chsa/xa73i, as the Kesser above)
+- Kältebringer KB51-18000BTU QC (possibly also a TCL, just labled)
 
 ### Unsuccessfully tested:
 - TCL-12chsa/tpg
